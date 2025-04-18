@@ -1,1 +1,1 @@
-This is a simple hand cricket game.
+This is repocitory I am used to upload my simple projects ans assingments
