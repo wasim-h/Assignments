@@ -40,7 +40,7 @@ Tie: {cnt}''' )
         if cnp>cnc:
             print("Nice game ")
         else:
-            print("Scared??? ")
+            print("Scared...??? ")
         break
     else:
         print("Enter valid choice ")
