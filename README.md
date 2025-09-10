@@ -1,1 +1,1 @@
-This is repocitory I am used to upload my simple projects ans assingments
+This is repocitory I am used to upload my simple projects and assingments
